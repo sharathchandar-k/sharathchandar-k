@@ -76,13 +76,13 @@ You can click the Preview link to take a look at your changes.
 
 <h3 align="left">📱 Let's Connect and Inspire Together!</h3>
 <div align="left">
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="devto logo"  />
-  <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="medium logo"  />
+  <img src="https://www.youtube.com/@SharathchandarK?sub_confirmation=1" height="35" alt="youtube logo"  />
+  <img src="https://www.instagram.com/sharathchandark/" height="35" alt="instagram logo"  />
+  <img src="https://www.facebook.com/profile.php?id=61550288282033" height="35" alt="facebook logo"  />
+  <img src="https://twitter.com/sharathchandark" height="35" alt="twitter logo"  />
+  <img src="https://discord.gg/KusQDapm" height="35" alt="discord logo"  />
+  <img src="https://dev.to/sharathchandark" height="35" alt="devto logo"  />
+  <img src="https://medium.com/@sharathchandark" height="35" alt="medium logo"  />
 </div>
 
 <br clear="both">
